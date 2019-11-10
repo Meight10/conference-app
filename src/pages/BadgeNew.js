@@ -2,7 +2,6 @@ import React, {Component, Fragment} from 'react';
 
 import "./styles/BadgeNew.css"
 import header from "../images/badge-header.svg";
-import NavBar from "../components/Navbar";
 import Badge from "../components/Badge";
 import BadgeForm from "../components/BadgeForm";
 
