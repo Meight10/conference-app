@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="08be24d5-0c80-4843-b922-be5a2f6c9f15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BadgesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BadgesList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Badges.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Badges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BadgeNew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BadgeNew.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/styles/BadgeNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles/BadgeNew.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +82,7 @@
       <workItem from="1573433184650" duration="1196000" />
       <workItem from="1574015193610" duration="1772000" />
       <workItem from="1574610473549" duration="9385000" />
-      <workItem from="1574651443321" duration="3616000" />
+      <workItem from="1574651443321" duration="5582000" />
     </task>
     <servers />
   </component>
